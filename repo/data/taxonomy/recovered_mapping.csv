@@ -1,0 +1,183 @@
+raw,Attack
+CID (Coordinated Inauthentic Behavior),coordinated inauthentic behavior
+Coordinated Inauthentic Behavior (CIB),coordinated inauthentic behavior
+CIB (Coordinated Inauthentic Behavior),coordinated inauthentic behavior
+Coordinated Inauthentic Behavior,coordinated inauthentic behavior
+DDoS,ddos
+"ATM ""Black Box""",ddos
+Defacement,defacement
+Fake Websites/Social Network accounts,fake account/website
+Fake Social Network accounts/groups/pages,fake account/website
+Fake Social Network Accounts,fake account/website
+Fake Social/Web pages,fake account/website
+Fake Information Network,fake account/website
+Fake Social Network Pages,fake account/website
+Fake Social Networks Accounts,fake account/website
+Fake News via Email,fake account/website
+Fake Social Accounts,fake account/website
+Fake Social Network Groups/Pages,fake account/website
+Fake News/Social Profiles,fake account/website
+OAuth token hijacking,hijacking
+Account hijacking,hijacking
+BGP Hijacking,hijacking
+DNS Hijacking,hijacking
+Account Hijacking,hijacking
+BGP Poisoning or DNS Hijacking,hijacking
+Compromised certificate,hijacking
+Cloud Account Takeover,hijacking
+Account Takeover,hijacking
+DNS hijacking,hijacking
+DNS hjiacking,hijacking
+Business Email Compromise,hijacking
+PoS Malware,malware
+Malware,malware
+Malware/PoS Malware,malware
+Search Engine Poisoning,other
+GPS Spoofing,other
+Password-spraying,other
+Price manipulation,other
+Watering Hole,other
+"Watering Hole (CVE-2020-1380, CVE-2021-26411)",other
+Malicious Spam,other
+Malicious JavaScript Injection,other
+Malicious spam,other
+Flash loan,other
+Social Networks Bot,other
+Malicious WordPress Plugin,other
+Malvertising,other
+Malicous Autodesk plugin,other
+Fraudulent SWIFT Transactions,other
+Domain Spoofing,other
+Spam,other
+Misconfiguration,other
+Credential stuffing,other
+Malicious Code Injection,other
+EMV Cloning,other
+Backdoor,other
+Deepfake,other
+Evil Contract,other
+Malicious code injection,other
+Malicious bot,other
+Jackpotting,other
+Malicious script injection,other
+Robo-calls,other
+Twitter Bots,other
+51% attack,other
+51% Attack,other
+Fresh Loan,other
+Governance Attack,other
+Misconfigurations,other
+Reentrancy Attack,other
+BEC,other
+Malicious Script,other
+Password spray,other
+SQL Injection,other
+Misconfigured MongoDB,other
+SMS Spamming,other
+Wiretapping,other
+Scam,other
+Web Shells,other
+Exposed MongoDB,other
+Zoom bombing,other
+VNC Misconfiguration,other
+Malicious Browser Extension,other
+Malicious JS,other
+Flash Loan,other
+Credential Stuffing,other
+HTTP Injectors,other
+Brute-Force,other
+Re-entrancy attack,other
+Brute Force,other
+Crypto Scam,other
+Fraudulent Websites,other
+Extortion scam,other
+Password-spray,other
+Malicious Script Injection,other
+Illegitimate API Access,other
+Multiple techniques,other
+Windows Bit locker,other
+Bashavtotrans,other
+SQLi,sqli
+Targeted Attack,targeted attack
+Targeted attack,targeted attack
+Unknown,unknown
+vBulletin vulnerability (CVE-2019-16759),vulnerability
+Unknown 0-day vulnerability,vulnerability
+CVE-2022-42475 Vulnerability,vulnerability
+CVE-2022-26925 Vulnerability,vulnerability
+EOS Vulnerability,vulnerability
+CVE-2021-22986 Vulnerability,vulnerability
+Wordpress Plugin Vulnerability,vulnerability
+CVE-2022-21587 Vulnerability,vulnerability
+CVE-2022-41352 Vulnerability,vulnerability
+Revive Adserver Vulnerability,vulnerability
+Undisclosed vulnerability ,vulnerability
+"CVE-2021-1905, CVE-2021-1906, CVE-2021-28663 and CVE-2021-28664 vulnerabilities",vulnerability
+Monero Vulnerability,vulnerability
+CVE-2022-32917 vulnerability,vulnerability
+CVE-2020-5639 and CVE-2021-20655 vulnerabilities,vulnerability
+Infinite mint vulnerability,vulnerability
+CVE-2022-1040) and CVE-2022-30190 vulnerabilities,vulnerability
+CVE-2022-26138 Vulnerability,vulnerability
+CVE-2022-41128 Vulnerability,vulnerability
+Multiple Vulnerabilities,vulnerability
+CVE-2021-20038 vulnerability,vulnerability
+CVE-2021-21224 Vulnerability,vulnerability
+CVE-2022-26134 Vulnerability,vulnerability
+Undisclosed vulnerabilities,vulnerability
+CVE-2021-35394 Vulnerability,vulnerability
+Multiple vulnerabilities,vulnerability
+CVE-2017-11882 Vulnerability,vulnerability
+CVE-2021-26084 Vulnerability,vulnerability
+CVE-2022-40684 vulnerability,vulnerability
+CVE-2023-20025 and CVE-2023-20026 vulnerabilities,vulnerability
+ProxyLogon Vulnerability (CVE-2021-26855),vulnerability
+CVE-2021-44228 Vulnerability,vulnerability
+Strava vulnerability,vulnerability
+Vulnerability,vulnerability
+Wordpress vulnerabilities,vulnerability
+CVE-2021-40444 Vulnerability,vulnerability
+Vulnerability in a file transfer server,vulnerability
+Undisclosed vulnerability,vulnerability
+"CVE-2021-25337, CVE-2021-25369 and CVE-2021-25370 vulnerabilities",vulnerability
+CVE-40438 vulnerability,vulnerability
+ASUS Router Vulnerability,vulnerability
+Magento Vulnerability,vulnerability
+Accellion Vulnerability,vulnerability
+CVE-2021-33742 vulnerability,vulnerability
+CVE-2021-21166 and CVE-2021-30551 vulnerabilities,vulnerability
+App Vulnerability,vulnerability
+Third-Party vulnerability,vulnerability
+"CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, 
+CVE-2021-27065 Vulnerabilities",vulnerability
+Vulnerability ,vulnerability
+CVE-2014-8361 Vulnerability,vulnerability
+CVE-2021-42237 Vulnerability,vulnerability
+Zimbra 0-day vulnerability,vulnerability
+"""Network Vulnerability""",vulnerability
+"CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-40539 vulnerabilities",vulnerability
+CVE-2022-1040 vulnerability,vulnerability
+Log4Shell vulnerability,vulnerability
+DEOS Vulnerability,vulnerability
+CVE-2018-20250 WinRAR vulnerability,vulnerability
+Reentrancy vulnerability,vulnerability
+CVE-2014-8361 vulnerability,vulnerability
+Adminer Vulnerability,vulnerability
+CVE-2019-18935 Vulnerability,vulnerability
+EOSPlay Vulnerability via an exploit of the EOS REX Service,vulnerability
+WordPress Plugin Vulnerability,vulnerability
+Z-Wasp Vulnerability,vulnerability
+vBulletin vulnerability,vulnerability
+"Multiple vulnerabilities (CVE-2018-13379, CVE-2019-5591, CVE-2020-12812, CVE-2021-34473, CVE-2021-34523, CVE-2021-31207, CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)",vulnerability
+Platform Vulnerability,vulnerability
+CVE-2022-22965 Vulnerability,vulnerability
+Android Vulnerability,vulnerability
+"ProxyShell vulnerabilities (CVE-2021-34473, CVE-2021-34523, CVE-2021-31207)",vulnerability
+CVE-2022-30190 Vulnerability (Follina),vulnerability
+CVE-2021-21017 Vulnerability,vulnerability
+Vulnerable Wordpress Plugin (CVE-2021-25094),vulnerability
+Unknown Vulnerability,vulnerability
+"CVE-2021-26855, CVE-2021-27065, CVE-2021-34473, CVE-2021-34523, CVE-2021-31207, CVE-2022-41080, CVE-2022-41082, OWASSRF Vulnerabilities",vulnerability
+CVE-2022-35405 vulnerability,vulnerability
+SonarQube zero-day vulnerability,vulnerability
+"Jenkins Vulnerabilities (CVE-2019-1003000, CVE-2019-1003001, CVE-2019-1003002)",vulnerability

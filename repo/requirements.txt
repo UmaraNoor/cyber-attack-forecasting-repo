@@ -1,0 +1,13 @@
+# Minimum versions. These are lower bounds, not pins: the published results
+# were produced with numpy 2.4.4, pandas 3.0.2, scikit-learn 1.8.0,
+# scipy 1.17.1, torch 2.13.0 and matplotlib 3.10.8 on Python 3.12.
+# Small numeric variation across BLAS builds and library versions is expected.
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+torch>=2.0
+matplotlib>=3.8
+openpyxl>=3.1
+requests>=2.31
+pycountry>=23.12

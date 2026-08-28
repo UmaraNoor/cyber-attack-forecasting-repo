@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+*.egg-info/
+
+# Upstream data is never committed: not redistributed. See data/README.md.
+data/raw/**
+!data/raw/**/.gitkeep
+data/derived/**
+!data/derived/.gitkeep

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this corpus or code, please cite the paper below."
+title: "Cyber-Attack Forecasting on Merged Incident Repositories"
+authors:
+  - family-names: Fiza
+    given-names: Inbasat
+    affiliation: "International Islamic University, Islamabad"
+  - family-names: Zahid
+    given-names: Umara
+    affiliation: "International Islamic University, Islamabad"
+version: "1.0.0"
+date-released: "2026-08-26"
+# license: TO BE CHOSEN by the copyright holder - see LICENSE.md
+# Uncomment and set once decided, e.g. "MIT", "BSD-3-Clause", "Apache-2.0"

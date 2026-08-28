@@ -1,0 +1,598 @@
+raw_label,category,tier
+"""Dirty Pipe"" vulnerability",vulnerability,rule-based
+"""Network Vulnerability""",vulnerability,empirical
+"""view as"" vulnerability",vulnerability,rule-based
+.htaccess injection,other,rule-based
+0-Day vulnerability,vulnerability,rule-based
+0-day vulnerability,vulnerability,rule-based
+51% Attack,other,empirical
+51% attack,other,empirical
+API Exploit,vulnerability,rule-based
+API Token Hijacking,hijacking,rule-based
+API Vulnerability,vulnerability,rule-based
+API vulnerability,vulnerability,rule-based
+ASUS Router Vulnerability,vulnerability,empirical
+"ATM ""Black Box""",ddos,empirical
+ATM Skimmer,malware,rule-based
+ATM skimming,malware,rule-based
+Accellion Vulnerability,vulnerability,empirical
+Account Hijacking,hijacking,empirical
+Account Takeover,hijacking,empirical
+Account Takeover via Teamviewer,hijacking,rule-based
+Account hijacking,hijacking,empirical
+Ad fraud,other,rule-based
+Adminer Vulnerability,vulnerability,empirical
+Advertising fraud,other,rule-based
+Android Vulnerability,vulnerability,empirical
+Apache Struts 2 Vulnerability,vulnerability,rule-based
+Apache Struts Vulnerabilities,vulnerability,rule-based
+App Vulnerability,vulnerability,empirical
+Asterisk FreePBX Vulnerability,vulnerability,rule-based
+Atlassian Confluence Vulnerability (CVE-2019-3396),vulnerability,rule-based
+Atlassian vulnerability,vulnerability,rule-based
+BEC,other,empirical
+BGP Hijacking,hijacking,empirical
+BGP Poisoning or DNS Hijacking,hijacking,empirical
+BGP hijack,hijacking,rule-based
+Backdoor,other,empirical
+Bashavtotrans,other,empirical
+Bitcoin Vulnerability,vulnerability,rule-based
+Bitcoin vanity addresses,other,rule-based
+BlueKeep (CVE-2019-0708) vulnerability,vulnerability,rule-based
+Bot attack,malware,rule-based
+Brute Force,other,empirical
+Brute Force (Credential Stuffing),hijacking,rule-based
+Brute Force/Remote Code Execution Vulnerability,vulnerability,rule-based
+Brute-Force,other,empirical
+Brute-Force/Credential Stuffing,hijacking,rule-based
+Brute-force,hijacking,rule-based
+Business Email Compromise,hijacking,empirical
+Business Email Comrpomise,other,rule-based
+CIB (Coordinated Inauthentic Behavior),coordinated inauthentic behavior,empirical
+CID (Coordinated Inauthentic Behavior),coordinated inauthentic behavior,empirical
+CVE-2010-3904 Vulnerability,vulnerability,rule-based
+CVE-2014-0196 Vulnerability,vulnerability,rule-based
+CVE-2014-8361 Vulnerability,vulnerability,empirical
+CVE-2014-8361 vulnerability,vulnerability,empirical
+CVE-2015-1427 and CVE-2019-9082 vulnerabilities,vulnerability,rule-based
+CVE-2015-1427 vulnerability,vulnerability,rule-based
+CVE-2015-2291 Vulnerability,vulnerability,rule-based
+CVE-2015-5317 Vulnerability,vulnerability,rule-based
+CVE-2016-20016 vulnerability,vulnerability,rule-based
+CVE-2016-3427 Vulnerability,vulnerability,rule-based
+CVE-2016-8735 Vulnerability,vulnerability,rule-based
+CVE-2017-0144 and CVE-2017-7494 vulnerabilities,vulnerability,rule-based
+CVE-2017-11882 Vulnerability,vulnerability,empirical
+"CVE-2017-12240, CVE-2018-0171, CVE-2018-0125, CVE-2021-1497, and CVE-2018-0147 vulnerabilities",vulnerability,rule-based
+CVE-2017-18368 vulnerability,vulnerability,rule-based
+CVE-2017-3823 vulnerability,vulnerability,rule-based
+CVE-2017-6079 Vulnerability,vulnerability,rule-based
+CVE-2017-6526,vulnerability,rule-based
+CVE-2017-9833 and CVE-2021-33558 vulnerabilities,vulnerability,rule-based
+CVE-2018-0296 vulnerability,vulnerability,rule-based
+CVE-2018-13379 Vulnerability,vulnerability,rule-based
+CVE-2018-13379 and CVE-2019-11510 vulnerabilities,vulnerability,rule-based
+"CVE-2018-13379, CVE-2019-1653, CVE-2019-2725, CVE-2019-9670, CVE-2019-11510, CVE-2019-19781, CVE-2019-7609, CVE-2020-4006, CVE-2020-5902, CVE-2020-14882, CVE-2021-21972, CVE-2021-26855",vulnerability,rule-based
+"CVE-2018-13379, CVE-2019-9670, CVE-2019-11510, CVE-2019-19781, CVE-2020-4006 ",vulnerability,rule-based
+"CVE-2018-13379, CVE-2020-12812,  CVE-2019-5591 Vulnerabilities",vulnerability,rule-based
+"CVE-2018-13379, CVE-2020-12812, CVE-2019-5591 vulnerability",vulnerability,rule-based
+CVE-2018-20250 WinRAR vulnerability,vulnerability,empirical
+CVE-2018-20250 vulnerability,vulnerability,rule-based
+CVE-2018-5430 and CVE-2018-18809 vulnerabilities ,vulnerability,rule-based
+CVE-2018-9995 vulnerability,vulnerability,rule-based
+CVE-2019-0604,vulnerability,rule-based
+CVE-2019-0604 Vulnerability,vulnerability,rule-based
+CVE-2019-0708 Vulnerability,vulnerability,rule-based
+CVE-2019-0752 and CVE-2018-8174 vulnerabilities,vulnerability,rule-based
+CVE-2019-11043 vulnerability,vulnerability,rule-based
+"CVE-2019-11510, CVE-2019-11539, CVE-2018-13379",vulnerability,rule-based
+CVE-2019-1429 vulnerability,vulnerability,rule-based
+CVE-2019-1663 Vulnerability,vulnerability,rule-based
+CVE-2019-18935 Vulnerability,vulnerability,empirical
+CVE-2019-2725 Vulnerability,vulnerability,rule-based
+CVE-2019-2729 Vulnerability,vulnerability,rule-based
+"CVE-2019-3396, CVE-2019-11581, and CVE-2012-3152 vulnerabilities",vulnerability,rule-based
+CVE-2019-5544 and CVE-2020-3992 vulnerabilities,vulnerability,rule-based
+CVE-2019-5736 vulnerability,vulnerability,rule-based
+CVE-2019-5786 Vulnerability,vulnerability,rule-based
+CVE-2019-7481 vulnerability,vulnerability,rule-based
+CVE-2020-10148 and Pulse Secure VPN Vulnerability,vulnerability,rule-based
+CVE-2020-10987 vulnerability,vulnerability,rule-based
+CVE-2020-11261 Vulnerability,vulnerability,rule-based
+CVE-2020-14882 Vulnerability,vulnerability,rule-based
+CVE-2020-14882 and CVE-2017-11610 vulnerabilities,vulnerability,rule-based
+CVE-2020-24557 vulnerability,vulnerability,rule-based
+CVE-2020-2506 and CVE-2020-2507 vulnerabilities,vulnerability,rule-based
+"CVE-2020-27930, CVE-2020-15999, CVE-2020-16009, CVE-2020-16010, CVE-2020-27950, CVE-2020-27932, CVE-2020-17087 Vulnerabilities",vulnerability,rule-based
+CVE-2020-29583 Vulnerability,vulnerability,rule-based
+CVE-2020-3580 Vulnerability,vulnerability,rule-based
+CVE-2020-5639 and CVE-2021-20655 vulnerabilities,vulnerability,empirical
+CVE-2020-6207 Vulnerability,vulnerability,rule-based
+"CVE-2020-6287, CVE-2020-6207,
+CVE-2018-2380,
+CVE-2016-95,
+CVE-2016-3976, 
+CVE-2010-5326 vulnerabilities",vulnerability,rule-based
+"CVE-2020-6418,    CVE-2020-0938, CVE-2020-1020,  CVE-2020-1027 vulnerabilities",vulnerability,rule-based
+CVE-2021-1647 Vulnerability,vulnerability,rule-based
+CVE-2021-1879 Vulnerability,vulnerability,rule-based
+CVE-2021-1879 vulnerability,vulnerability,rule-based
+"CVE-2021-1905, CVE-2021-1906, CVE-2021-28663 and CVE-2021-28664 vulnerabilities",vulnerability,empirical
+"CVE-2021-20021,
+CVE-2021-20022,
+CVE-2021-20023 Vulnerability ",vulnerability,rule-based
+CVE-2021-20038 vulnerability,vulnerability,empirical
+CVE-2021-20090 vulnerability,vulnerability,rule-based
+CVE-2021-21017 Vulnerability,vulnerability,empirical
+CVE-2021-21087 vulnerability,vulnerability,rule-based
+CVE-2021-21148 Vulnerability,vulnerability,rule-based
+CVE-2021-21166 and CVE-2021-30551 vulnerabilities,vulnerability,empirical
+CVE-2021-21206 and CVE-2021-21220 vulnerabilities.,vulnerability,rule-based
+CVE-2021-21224 Vulnerability,vulnerability,empirical
+CVE-2021-21224 and CVE-2021-31956 vulnerabilities,vulnerability,rule-based
+CVE-2021-21972 Vulnerability,vulnerability,rule-based
+CVE-2021-21985 vulnerability,vulnerability,rule-based
+CVE-2021-22005 vulnerability,vulnerability,rule-based
+CVE-2021-22205 vulnerability,vulnerability,rule-based
+CVE-2021-22893 Vulnerability,vulnerability,rule-based
+CVE-2021-22937 Vulnerability,vulnerability,rule-based
+CVE-2021-22986 Vulnerability,vulnerability,empirical
+CVE-2021-24284 Vulnerability,vulnerability,rule-based
+"CVE-2021-25337, CVE-2021-25369 and CVE-2021-25370 vulnerabilities",vulnerability,empirical
+CVE-2021-26084 Vulnerability,vulnerability,empirical
+CVE-2021-26411 Vulnerability,vulnerability,rule-based
+"CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, 
+CVE-2021-27065 Vulnerabilities",vulnerability,empirical
+"CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065, CVE-2021-40539 vulnerabilities",vulnerability,empirical
+"CVE-2021-26855, CVE-2021-27065, CVE-2021-34473, CVE-2021-34523, CVE-2021-31207, CVE-2022-41080, CVE-2022-41082, OWASSRF Vulnerabilities",vulnerability,empirical
+CVE-2021-27065 and CVE-2021-2685 vulnerabilities,vulnerability,rule-based
+CVE-2021-28550 vulnerability,vulnerability,rule-based
+CVE-2021-30563 vulnerability,vulnerability,rule-based
+CVE-2021-30632 and CVE-2021-30633 vulnerabilities,vulnerability,rule-based
+CVE-2021-30657 Vulnerability,vulnerability,rule-based
+CVE-2021-30663 and CVE-2021-30665  vulnerabilities,vulnerability,rule-based
+"CVE-2021-30663, CVE-2021-30665, CVE-2021-30713 vulnerabilities",vulnerability,rule-based
+"CVE-2021-31955, CVE-2021-31956, CVE-2021-21224",vulnerability,rule-based
+CVE-2021-32648 vulnerability,vulnerability,rule-based
+CVE-2021-33742 vulnerability,vulnerability,empirical
+CVE-2021-33766 Vulnerability,vulnerability,rule-based
+"CVE-2021-34473,
+CVE-2021-34523,  
+CVE-2021-31207 vulnerabilities",vulnerability,rule-based
+CVE-2021-34527 Vulnerability,vulnerability,rule-based
+"CVE-2021-34527, CVE-2021-33771, CVE-2021-34448, CVE-2021-31979 Vulnerabilities",vulnerability,rule-based
+CVE-2021-35211 Vulnerability,vulnerability,rule-based
+CVE-2021-35247 Vulnerability,vulnerability,rule-based
+CVE-2021-35394 Vulnerability,vulnerability,empirical
+CVE-2021-35395 Vulnerability,vulnerability,rule-based
+CVE-2021-35464 vulnerability,vulnerability,rule-based
+CVE-2021-35587 Vulnerability,vulnerability,rule-based
+CVE-2021-3560 Vulnerability,vulnerability,rule-based
+CVE-2021-35941 Vulnerability,vulnerability,rule-based
+CVE-2021-36260 Vulnerability,vulnerability,rule-based
+CVE-2021-36260 vulnerability,vulnerability,rule-based
+"CVE-2021-36934, CVE-2020-0796, CVE-2018-1000861, CVE-2017-9791, CVE-2017-8464, CVE-2017-10271, CVE-2017-0263, CVE-2017-0262, CVE-2017-0145, CVE-2017-0144, CVE-2016-3088, CVE-2015-2051, CVE-2015-1635, CVE-2015-1130, CVE-2014-4404 Vulnerabilities",vulnerability,rule-based
+CVE-2021-37973 and CVE-2021-37976 vulnerabilities,vulnerability,rule-based
+CVE-2021-38000 Vulnerability,vulnerability,rule-based
+CVE-2021-38000 and CVE-2021-38003 vulnerabilities,vulnerability,rule-based
+"CVE-2021-38003, CVE-2021-1048 vulnerabilities",vulnerability,rule-based
+CVE-2021-3840 Vulnerability,vulnerability,rule-based
+CVE-2021-38647 Vulnerability,vulnerability,rule-based
+CVE-2021-40444,vulnerability,rule-based
+CVE-2021-40444 Vulnerability,vulnerability,empirical
+CVE-2021-40539 Vulnerability,vulnerability,rule-based
+CVE-2021-4102 Vulnerability,vulnerability,rule-based
+CVE-2021-41653 vulnerability,vulnerability,rule-based
+CVE-2021-41773 Vulnerability,vulnerability,rule-based
+CVE-2021-42237 Vulnerability,vulnerability,empirical
+CVE-2021-42292 Vulnerability,vulnerability,rule-based
+CVE-2021-42321 Vulnerability,vulnerability,rule-based
+CVE-2021-44077 Vulnerability,vulnerability,rule-based
+CVE-2021-44228 Vulnerability,vulnerability,empirical
+CVE-2021-44515 vulnerability,vulnerability,rule-based
+CVE-2021-45461 Vulnerability,vulnerability,rule-based
+CVE-2021-45467 and CVE-2021-45466 vulnerabilities,vulnerability,rule-based
+CVE-2022-0028 vulnerability,vulnerability,rule-based
+CVE-2022-0543 Vulnerability,vulnerability,rule-based
+CVE-2022-1040 Vulnerability,vulnerability,rule-based
+CVE-2022-1040 vulnerability,vulnerability,empirical
+CVE-2022-1040) and CVE-2022-30190 vulnerabilities,vulnerability,empirical
+CVE-2022-1364 Vulnerability,vulnerability,rule-based
+CVE-2022-1388 Vulnerability,vulnerability,rule-based
+CVE-2022-20821 vulnerability,vulnerability,rule-based
+CVE-2022-21587 Vulnerability,vulnerability,empirical
+CVE-2022-21882 Vulnerability,vulnerability,rule-based
+CVE-2022-22047 Vulnerability,vulnerability,rule-based
+CVE-2022-22536 Vulnerability,vulnerability,rule-based
+CVE-2022-22587 and CVE-2022-22594 vulnerabilities,vulnerability,rule-based
+CVE-2022-22718 vulnerability,vulnerability,rule-based
+CVE-2022-22954 Vulnerability,vulnerability,rule-based
+"CVE-2022-22954, CVE-2022-22947, CVE-2022-1388",vulnerability,rule-based
+CVE-2022-22960 Vulnerability,vulnerability,rule-based
+CVE-2022-22963 and CVE-2022-22965 vulnerability,vulnerability,rule-based
+CVE-2022-22965 Vulnerability,vulnerability,empirical
+CVE-2022-23131 and CVE-2022-23134 vulnerabilities,vulnerability,rule-based
+CVE-2022-23176 Vulnerability,vulnerability,rule-based
+CVE-2022-24086 Vulnerability,vulnerability,rule-based
+CVE-2022-24086 vulnerability,vulnerability,rule-based
+"CVE-2022-24086, CVE-2022-0609, CVE-2019-0752, CVE-2018-8174, CVE-2018-20250, CVE-2018-15982, CVE-2017-9841, CVE-2014-1761, CVE-2013-3906 Vulnerabilities",vulnerability,rule-based
+CVE-2022-24500 and CVE-2022-26809 Vulnerabilities,vulnerability,rule-based
+CVE-2022-24521 Vulnerability,vulnerability,rule-based
+CVE-2022-26134 Vulnerability,vulnerability,empirical
+CVE-2022-26134 vulnerability,vulnerability,rule-based
+CVE-2022-26138 Vulnerability,vulnerability,empirical
+CVE-2022-26500 and CVE-2022-26501 vulnerabilities,vulnerability,rule-based
+CVE-2022-26871 vulnerability,vulnerability,rule-based
+CVE-2022-26925 Vulnerability,vulnerability,empirical
+CVE-2022-27518 Vulnerability,vulnerability,rule-based
+CVE-2022-27924 Vulnerability,vulnerability,rule-based
+CVE-2022-27925 and CVE-2022-37042 vulnerabilities,vulnerability,rule-based
+CVE-2022-2856 Vulnerability,vulnerability,rule-based
+CVE-2022-29464  Vulnerability,vulnerability,rule-based
+CVE-2022-29499 vulnerability,vulnerability,rule-based
+CVE-2022-30190 Vulnerability (Follina),vulnerability,empirical
+CVE-2022-30190 vulnerability (Follina),vulnerability,rule-based
+CVE-2022-30333 Vulnerability,vulnerability,rule-based
+CVE-2022-30525 Vulnerability,vulnerability,rule-based
+CVE-2022-31460 Vulnerability,vulnerability,rule-based
+CVE-2022-31474 Vulnerability,vulnerability,rule-based
+CVE-2022-3180 Vulnerability,vulnerability,rule-based
+CVE-2022-3236 Vulnerability,vulnerability,rule-based
+CVE-2022-32894 and CVE-2022-32893 Vulnerabilities,vulnerability,rule-based
+CVE-2022-32917 vulnerability,vulnerability,empirical
+CVE-2022-34713 Vulnerability,vulnerability,rule-based
+CVE-2022-34721 Vulnerability,vulnerability,rule-based
+CVE-2022-35405 vulnerability,vulnerability,empirical
+CVE-2022-36408 Vulnerability,vulnerability,rule-based
+CVE-2022-36804 Vulnerability,vulnerability,rule-based
+CVE-2022-40684 Vulnerability,vulnerability,rule-based
+CVE-2022-40684 vulnerability,vulnerability,empirical
+CVE-2022-41040 and CVE-2022-41082 vulnerabilities,vulnerability,rule-based
+CVE-2022-41080 and CVE-2022-41082 vulnerabilities,vulnerability,rule-based
+"CVE-2022-41091, CVE-2022-41040, CVE-2022-41082, CVE-2022-41128, CVE-2022-41125, CVE-2022-41073 vulnerabilities",vulnerability,rule-based
+CVE-2022-41128 Vulnerability,vulnerability,empirical
+CVE-2022-41352 Vulnerability,vulnerability,empirical
+CVE-2022-42475 Vulnerability,vulnerability,empirical
+CVE-2022-42475 vulnerability,vulnerability,rule-based
+CVE-2022-42889 Vulnerability,vulnerability,rule-based
+CVE-2022-44877 Vulnerability,vulnerability,rule-based
+CVE-2022-45359 Vulnerability,vulnerability,rule-based
+CVE-2022-46169 vulnerability,vulnerability,rule-based
+CVE-2022-47966 Vulnerability,vulnerability,rule-based
+CVE-2023-0669 Fortra GoAnywhere MFT Vulnerability,vulnerability,rule-based
+CVE-2023-1389 Vulnerability,vulnerability,rule-based
+CVE-2023-20025 and CVE-2023-20026 vulnerabilities,vulnerability,empirical
+CVE-2023-21674 Vulnerability,vulnerability,rule-based
+CVE-2023-21839 Vulnerability,vulnerability,rule-based
+CVE-2023-22952 Vulnerability,vulnerability,rule-based
+CVE-2023-25717 Vulnerability,vulnerability,rule-based
+"CVE-2023-27351, CVE-2023-27350, and CVE-2023-0669 vulnerabilities",vulnerability,rule-based
+CVE-2023-27532 Vulnerability,vulnerability,rule-based
+CVE-2023-28432 Vulnerability,vulnerability,rule-based
+CVE-2023-30777 Vulnerability,vulnerability,rule-based
+CVE-2023-32243 Vulnerability,vulnerability,rule-based
+CVE-40438 vulnerability,vulnerability,empirical
+Certificate hijacking,hijacking,rule-based
+Cisco ASA Vulnerability,vulnerability,rule-based
+Cisco Router Vulnerability,vulnerability,rule-based
+Cloud Account Takeover,hijacking,empirical
+Cloud Misconfiguration,vulnerability,rule-based
+Cloud misconfiguration,vulnerability,rule-based
+Compromised Private Keys,other,rule-based
+Compromised certificate,hijacking,empirical
+Compromised private keys,other,rule-based
+Coordinated Inauthentic Behavior,coordinated inauthentic behavior,empirical
+Coordinated Inauthentic Behavior (CIB),coordinated inauthentic behavior,empirical
+Coordinated inauthentic Behavior,coordinated inauthentic behavior,rule-based
+Coordinated inauthentic behavior,coordinated inauthentic behavior,rule-based
+Credential Stuffing,other,empirical
+Credential Stuffng,other,rule-based
+Credential stuffing,other,empirical
+Credit Card Spoofing,other,rule-based
+Crypto Scam,other,empirical
+Crypto scam,other,rule-based
+Crypto scams,other,rule-based
+Cybercrime Facebook Group,other,rule-based
+DDoS,ddos,empirical
+DEOS Vulnerability,vulnerability,empirical
+DNS Hijack,hijacking,rule-based
+DNS Hijacking,hijacking,empirical
+DNS Vulnerability,vulnerability,rule-based
+DNS hijacking,hijacking,empirical
+DNS hjiacking,hijacking,empirical
+Data-Scraping,other,rule-based
+DeepFake,other,rule-based
+Deepfake,other,empirical
+Defacement,defacement,empirical
+Disinformation,other,rule-based
+DoS,ddos,rule-based
+Docker misconfiguration,vulnerability,rule-based
+Domain Hijacking,hijacking,rule-based
+Domain Spoofing,other,empirical
+Drive-By,other,rule-based
+Drupal Vulnerability (CVE-2019-6340),vulnerability,rule-based
+Drupal vulnerability (CVE-2018-7600),vulnerability,rule-based
+Dusting Attack,other,rule-based
+EMV Cloning,other,empirical
+EOS Vulnerability,vulnerability,empirical
+EOSPlay Vulnerability via an exploit of the EOS REX Service,vulnerability,empirical
+Elasrticsearch vulnerability (CVE-2014-3120),vulnerability,rule-based
+Evil Contract,other,empirical
+Evil cursor,other,rule-based
+Exim mail server vulnerability (CVE-2019-10149),vulnerability,rule-based
+Exposed MongoDB,other,empirical
+Extortion Scam,other,rule-based
+Extortion scam,other,empirical
+Fake Facebook Accounts,fake account/website,rule-based
+Fake Information Network,fake account/website,empirical
+Fake News Sites and Social Network Bots,fake account/website,rule-based
+Fake News via Email,fake account/website,empirical
+Fake News/Social Profiles,fake account/website,empirical
+Fake Social Accounts,fake account/website,empirical
+Fake Social Nettworks Accounts,fake account/website,rule-based
+Fake Social Network Accounts,fake account/website,empirical
+Fake Social Network Groups/Pages,fake account/website,empirical
+Fake Social Network Pages,fake account/website,empirical
+Fake Social Network accounts/groups/pages,fake account/website,empirical
+Fake Social Networks Accounts,fake account/website,empirical
+Fake Social/Web pages,fake account/website,empirical
+Fake Twitter Accounts,fake account/website,rule-based
+Fake Web Sites,fake account/website,rule-based
+Fake Websites,fake account/website,rule-based
+Fake Websites/Social Network accounts,fake account/website,empirical
+Fake job listings,fake account/website,rule-based
+Fake social Network accounts/groups/pages,fake account/website,rule-based
+Fake social media/web pages,fake account/website,rule-based
+"Fake websites, social media profiles",fake account/website,rule-based
+Fake websites/social network accounts,fake account/website,rule-based
+Financial Scam,other,rule-based
+Firefox vulnerability,vulnerability,rule-based
+Flash Loan,other,empirical
+Flash loan,other,empirical
+Flash loan attack,other,rule-based
+Fraudulent SWIFT Transactions,other,empirical
+Fraudulent Websites,other,empirical
+Freejacking,other,rule-based
+Fresh Loan,other,empirical
+GPS Interference,other,rule-based
+GPS Spoofing,other,empirical
+Governance Attack,other,empirical
+HTML smuggling,other,rule-based
+HTTP Injectors,other,empirical
+Illegitimate API Access,other,empirical
+Impersonation,other,rule-based
+Inadvertent Leak,other,rule-based
+Infinite mint vulnerability,vulnerability,empirical
+Instagram scam,other,rule-based
+Jackpotting,other,empirical
+"Jenkins Vulnerabilities (CVE-2019-1003000, CVE-2019-1003001, CVE-2019-1003002)",vulnerability,empirical
+Joomla! Vulnerability,vulnerability,rule-based
+LinkedIn Bot,other,rule-based
+Linkedin Bot,other,rule-based
+Log4Shell Vulnerability (CVE-2021-44228),vulnerability,rule-based
+Log4Shell vulnerability,vulnerability,empirical
+Log4j vulnerability,vulnerability,rule-based
+Log4j vulnerability (CVE-2021-44228),vulnerability,rule-based
+Magento Vulnerability,vulnerability,empirical
+Magento Vulnerability (PRODSECBUG-2198),vulnerability,rule-based
+Malicious Browser Extension,other,empirical
+Malicious Browser Extensions,other,rule-based
+Malicious Chrome  Extension,other,rule-based
+Malicious Chrome Extension,other,rule-based
+Malicious Chrome extension,other,rule-based
+Malicious Code Injection,other,empirical
+Malicious Docker Hub Images,other,rule-based
+Malicious Docker Image,other,rule-based
+Malicious Docker Images,other,rule-based
+Malicious Extension,other,rule-based
+Malicious Firefox Extension,other,rule-based
+Malicious GitHub commit,other,rule-based
+Malicious Google search ads,other,rule-based
+Malicious JS,other,empirical
+Malicious JavaScript Injection,other,empirical
+Malicious Javascript Injection,other,rule-based
+Malicious MDM,other,rule-based
+Malicious OWA Module,other,rule-based
+Malicious SEO redirection,other,rule-based
+Malicious Script,other,empirical
+Malicious Script Injection,other,empirical
+Malicious Spam,other,empirical
+Malicious WordPress Plugin,other,empirical
+Malicious WordPress plugin,other,rule-based
+Malicious WordPress plugins,other,rule-based
+Malicious Wordpress Plugin,other,rule-based
+Malicious Wordpress plugin,other,rule-based
+Malicious bot,other,empirical
+Malicious browser extension,other,rule-based
+Malicious code injection,other,empirical
+Malicious script injection,other,empirical
+Malicious spam,other,empirical
+Malicous Autodesk plugin,other,empirical
+Malspam,other,rule-based
+Malverposting,other,rule-based
+Malvertising,other,empirical
+Malware,malware,empirical
+Malware/PoS Malware,malware,empirical
+Man-in-the-Middle,other,rule-based
+Mark of the Web zero-day vulnerability,vulnerability,rule-based
+Mev bot attack,malware,rule-based
+Microsoft Exchange Server vulnerabilities,vulnerability,rule-based
+Microsoft Office Vulnerability,vulnerability,rule-based
+Microsoft Office and WordPad CVE-2017-11882 vulnerability,vulnerability,rule-based
+MikroTik Router Vulnerability (CVE-2018-14847),vulnerability,rule-based
+Misconfiguration,other,empirical
+Misconfiguration (weak password),vulnerability,rule-based
+Misconfiguration (weak passwords),vulnerability,rule-based
+Misconfigurations,other,empirical
+Misconfigured Docker Images,vulnerability,rule-based
+Misconfigured Docker Services,vulnerability,rule-based
+Misconfigured Ethereum Rigs,vulnerability,rule-based
+Misconfigured MongoDB,other,empirical
+Misconfigured RDP Servers,vulnerability,rule-based
+Misconfigured SQL Servers,vulnerability,rule-based
+Misconfigured devices,vulnerability,rule-based
+Monero Vulnerability,vulnerability,empirical
+Multiple  unpatched vulnerabilities,vulnerability,rule-based
+Multiple Vulnerabilities,vulnerability,empirical
+Multiple attack vectors (account Hijacking and malware),malware,rule-based
+Multiple techniques,other,empirical
+"Multiple techniques including phishing, brute force login attempts, and a 'pass-the-cookie' attack.",hijacking,rule-based
+Multiple vulnerabilities,vulnerability,empirical
+"Multiple vulnerabilities (CVE-2018-13379, CVE-2019-5591, CVE-2020-12812, CVE-2021-34473, CVE-2021-34523, CVE-2021-31207, CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)",vulnerability,empirical
+"Multiple vulnerabilities (CVE-2019-11510, CVE-2020-8260, CVE-2020-8243, CVE-2021-2289)",vulnerability,rule-based
+"Multiple vulnerabilities (CVE-2021-3007, CVE-2020-7961, CVE-2020-28188)",vulnerability,rule-based
+Multiple vulnerabilities and brute-force,vulnerability,rule-based
+Multiple vulnerabilities including CVE-2022-22947,vulnerability,rule-based
+MyBB vulnerability,vulnerability,rule-based
+Nest camera misconfiguration,vulnerability,rule-based
+O-day Wordpress Vulnerability ,vulnerability,rule-based
+OAuth token hijacking,hijacking,empirical
+Oracle Manipulation,other,rule-based
+PRODSECBUG-2198 Vulnerability,vulnerability,rule-based
+Password Spray,other,rule-based
+Password spray,other,empirical
+Password spraying,other,rule-based
+Password-Spraying,other,rule-based
+Password-spray,other,empirical
+Password-spraying,other,empirical
+PetitPotam NTLM Relay ,other,rule-based
+Platform Vulnerability,vulnerability,empirical
+Plugin vulnerability,vulnerability,rule-based
+PoS Malware,malware,empirical
+Price Manipulation,other,rule-based
+Price manipulation,other,empirical
+Privileged Access,other,rule-based
+Protocol Weakness,other,rule-based
+"ProxyLogon Vulnerabilities (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 CVE-2021-26855)",vulnerability,rule-based
+ProxyLogon Vulnerability (CVE-2021-26855),vulnerability,empirical
+ProxyLogon and  ProxyShell vulnerabilities,vulnerability,rule-based
+ProxyShell and ProxyLogon vulnerabilities,vulnerability,rule-based
+"ProxyShell vulnerabilities (CVE-2021-34473, CVE-2021-34523, CVE-2021-31207)",vulnerability,empirical
+"ProxyShell vulnerabilities (CVE-2021-34473, CVE-2021-34523, CVE-2021-31207) and ProxyLogon vulnerability (CVE-2021-26855)",vulnerability,rule-based
+ProxyShell vulnerability,vulnerability,rule-based
+Pulse Secure vulnerability,vulnerability,rule-based
+PwnKit (CVE-2021-4034) Vulnerability,vulnerability,rule-based
+RDP Vulnerabilities/Misconfigurations,vulnerability,rule-based
+Re-entrancy attack,other,empirical
+Reentrancy Attack,other,empirical
+Reentrancy attack,other,rule-based
+Reentrancy vulnerability,vulnerability,empirical
+Remote Device,other,rule-based
+Remote access,other,rule-based
+Revive Adserver Vulnerability,vulnerability,empirical
+Robo-calls,other,empirical
+Robocalls,other,rule-based
+Romance Scams,other,rule-based
+Routers/IoT devices vulnerabilities,vulnerability,rule-based
+Rug Pull,other,rule-based
+SEO Poisoning,other,rule-based
+SEO Spam,other,rule-based
+SIM Hijacking,hijacking,rule-based
+SIM Swapping,other,rule-based
+SIM Toolkit and S@T Browser vulnerability,vulnerability,rule-based
+SIM swap,other,rule-based
+SMS Gateway Vulnerability,vulnerability,rule-based
+SMS Spamming,other,empirical
+SMTP Impersonification,other,rule-based
+SPAM,other,rule-based
+SQL Injection,other,empirical
+SQLi,sqli,empirical
+SS7 Attack,other,rule-based
+SSL Stripping,other,rule-based
+SSL/TLS signature randomization,other,rule-based
+Scam,other,empirical
+Scripting attack,other,rule-based
+Search Engine Poisoning,other,empirical
+Server-Side Ad Insertion (SSAI) Hijacking,hijacking,rule-based
+Smart Contract vulnerability,vulnerability,rule-based
+Social Engineering,other,rule-based
+Social Engineering Toolkit,other,rule-based
+Social Networks Bot,other,empirical
+SolarWinds Web Help Desk vulnerability,vulnerability,rule-based
+SonarQube zero-day vulnerability,vulnerability,empirical
+Spam,other,empirical
+Spam accounts,other,rule-based
+Spambot,other,rule-based
+Strava vulnerability,vulnerability,empirical
+TWiki or MediaWiki vulnerabilities,vulnerability,rule-based
+Targeted Attack,targeted attack,empirical
+Targeted attack,targeted attack,empirical
+Tech Support Scam,other,rule-based
+ThinkPHP Vulnerability (CVE-2018-20062),vulnerability,rule-based
+Third-Party software vulnerability,vulnerability,rule-based
+Third-Party vulnerability,vulnerability,empirical
+Tor Traffic Hijacking,hijacking,rule-based
+Traffic redirection,other,rule-based
+Twitter Bot,other,rule-based
+Twitter Bots,other,empirical
+Twitter Scam,other,rule-based
+Ubiquiti Networks devices vulnerability,vulnerability,rule-based
+Unauthorized Raspberry Pi,other,rule-based
+Undisclosed KGUARD DVR vulnerability,vulnerability,rule-based
+Undisclosed Vulnerabilities,vulnerability,rule-based
+Undisclosed Vulnerability,vulnerability,rule-based
+Undisclosed vulnerabilities,vulnerability,empirical
+Undisclosed vulnerability,vulnerability,empirical
+Undisclosed vulnerability ,vulnerability,empirical
+Unknown,unknown,empirical
+Unknown 0-day vulnerability,vulnerability,empirical
+Unknown Vulnerability,vulnerability,empirical
+Unsecured MongoDB,other,rule-based
+VHF Interference,other,rule-based
+VMware vCenter vulnerability,vulnerability,rule-based
+VNC Misconfiguration,other,empirical
+VPN vulnerability,vulnerability,rule-based
+Vanity Addresses,other,rule-based
+Vulnerability,vulnerability,empirical
+Vulnerability ,vulnerability,empirical
+Vulnerability (CVE-2018-1000861),vulnerability,rule-based
+Vulnerability (CVE-2018-11776),vulnerability,rule-based
+Vulnerability (CVE-2019-3396),vulnerability,rule-based
+Vulnerability (CVE-2019-9978),vulnerability,rule-based
+Vulnerability in Monero Code,vulnerability,rule-based
+Vulnerability in a file transfer server,vulnerability,empirical
+Vulnerable IoT devices,vulnerability,rule-based
+Vulnerable Joomla and Wordpress websites,vulnerability,rule-based
+Vulnerable Plugin,vulnerability,rule-based
+Vulnerable WordPress Plugin,vulnerability,rule-based
+Vulnerable WordPress Plugins,vulnerability,rule-based
+Vulnerable WordPress plugin,vulnerability,rule-based
+Vulnerable Wordpress Plugin (CVE-2021-25094),vulnerability,empirical
+Vulnerable Wordpress plugin (Yellow Pencil),vulnerability,rule-based
+Vulnerable Wordpress plugin (Yuzo Related Posts),vulnerability,rule-based
+Vulnerable Wordpress plugins,vulnerability,rule-based
+Vulnerable printers,vulnerability,rule-based
+Vulnerable web shells,vulnerability,rule-based
+Watering Hole,other,empirical
+"Watering Hole (CVE-2020-1380, CVE-2021-26411)",other,empirical
+Web Shells,other,empirical
+Web scraping,other,rule-based
+Web shells,other,rule-based
+Webmin vulnerability,vulnerability,rule-based
+Website Bug,other,rule-based
+WinRAR Vulnerability,vulnerability,rule-based
+Wind River Systems,other,rule-based
+Windows Bit locker,other,empirical
+Wiretapping,other,empirical
+WordPress Plugin Vulnerability,vulnerability,empirical
+WordPress Plugin vulnerability,vulnerability,rule-based
+Wordpress Malicious Plugins,other,rule-based
+Wordpress Plug-in vulnerability (XSS),vulnerability,rule-based
+Wordpress Plugin Vulnerability,vulnerability,empirical
+Wordpress plugin vulnerability,vulnerability,rule-based
+Wordpress plugin vulnerability (CVE-2021-24175),vulnerability,rule-based
+Wordpress plugin vulnerability vulnerabilities,vulnerability,rule-based
+Wordpress vulnerabilities,vulnerability,empirical
+XSS Vulnerability on Social Warfare Wordpress plugin,vulnerability,rule-based
+Z-Wasp Vulnerability,vulnerability,empirical
+Zero-Day Vulnerability in Bitmessage,vulnerability,rule-based
+Zero-Day Vulnerability in Telegram,vulnerability,rule-based
+Zimbra 0-day vulnerability,vulnerability,empirical
+"Zimbra, CVE-2018-6882",vulnerability,rule-based
+Zoom Bombing,other,rule-based
+Zoom bombing,other,empirical
+iOS vulnerabilities,vulnerability,rule-based
+password spray and brute-force,hijacking,rule-based
+password-spraying,other,rule-based
+vBulletin vulnerability,vulnerability,empirical
+vBulletin vulnerability (CVE-2019-16759),vulnerability,empirical
