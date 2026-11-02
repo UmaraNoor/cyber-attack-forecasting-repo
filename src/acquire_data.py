@@ -33,7 +33,9 @@ RAW = DATA / "raw"
 VCDB_DIR = RAW / "vcdb"
 HACK_DIR = RAW / "hackmageddon"
 
-VCDB_ZIP = "https://github.com/vz-risk/VCDB/archive/refs/heads/master.zip"
+# Pinned to the VCDB commit used to build the published corpus (master branch on 17 December 2024).
+VCDB_COMMIT = "becd8c62905ea2330451cd335e0fefe8ac9f3be2"
+VCDB_ZIP = f"https://github.com/vz-risk/VCDB/archive/{VCDB_COMMIT}.zip"
 VCDB_HOME = "https://github.com/vz-risk/VCDB"
 HACK_HOME = "https://www.hackmageddon.com/"
 

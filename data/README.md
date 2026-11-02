@@ -62,6 +62,7 @@ published one. `validate_corpus.py` reports the divergence.
 | **Dataset** | VERIS Community Database (VCDB) |
 | **Maintainer** | Verizon / VERIS community |
 | **Source** | https://github.com/vz-risk/VCDB |
+| **Version** | commit becd8c62905ea2330451cd335e0fefe8ac9f3be2 (master on 17 December 2024) |
 | **Schema** | https://verisframework.org/ |
 | **Coverage used** | 1971–2017 |
 | **Records after cleaning** | 7,745 |
@@ -71,7 +72,8 @@ published one. `validate_corpus.py` reports the divergence.
 
 ```
 VERIS Community Database (VCDB), vz-risk/VCDB.
-https://github.com/vz-risk/VCDB (accessed 17 December 2024).
+https://github.com/vz-risk/VCDB, commit becd8c62905ea2330451cd335e0fefe8ac9f3be2
+(state of the master branch on 17 December 2024).
 ```
 
 Consult the upstream repository for its licence before redistributing any
